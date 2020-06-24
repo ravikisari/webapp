@@ -4,3 +4,4 @@ Shopping List:
 3) Apples
 4) Carrots
 5) Cereal
+6) Banana
